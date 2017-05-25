@@ -6,4 +6,4 @@
 * ace split only receives one card
 
 Instructions:
-  Run build to create data.txt then play by running bj.py
+  Run buildData.py to create data.txt then play by running bj.py
